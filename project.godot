@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="GitHub"
+config/name="Gta Project"
+run/main_scene="res://World.tscn"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
 
